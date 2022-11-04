@@ -1,6 +1,6 @@
 var now = new Date();
 function createtime() {
-  var grt = new Date("29/10/2022 00:00:00");
+  var grt = new Date("10/29/2022 00:00:00");
   now.setTime(now.getTime() + 250);
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
