@@ -16,8 +16,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' src='https://cdn.cbd.int/anzhiyu-blog@2.0.3/img/badge/Finale-摸鱼中.svg' title='扫庭露青天，坐月荫嘉木。'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`
-      : `<img class='boardsign' src='https://cdn.cbd.int/anzhiyu-blog@2.0.3/img/badge/Finale-睡觉了.svg' title='扫庭露青天，坐月荫嘉木。'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),
+      ? `<img class="boardsign" src="https://cdn.cbd.int/anzhiyu-blog@2.0.3/img/badge/Finale-摸鱼中.svg" title="扫庭露青天，坐月荫嘉木。"><span class="textTip"> <br> 本站居然运行了 ${dnum} 天</span><span id="runtime"> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class="fas fa-heartbeat" style="color:red"></i>`
+      : `<img class="boardsign" src="https://cdn.cbd.int/anzhiyu-blog@2.0.3/img/badge/Finale-睡觉了.svg" title="扫庭露青天，坐月荫嘉木。"><span class="textTip"> <br> 本站居然运行了 ${dnum} 天</span><span id="runtime"> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class="fas fa-heartbeat" style="color:red"></i>`),
     document.getElementById("workboard") &&
       (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
