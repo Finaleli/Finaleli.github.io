@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/0.html</loc>
+    <loc>https://www.finale.asia/posts/0.html</loc>
+    
+    <lastmod>2023-03-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.finale.asia/posts/551f943f.html</loc>
     
     <lastmod>2023-03-11</lastmod>
     
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/551f943f.html</loc>
-    
-    <lastmod>2023-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/9ff79b23.html</loc>
+    <loc>https://www.finale.asia/posts/9ff79b23.html</loc>
     
     <lastmod>2022-11-05</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://www.finale.asia/manifest.json</loc>
     
     <lastmod>2022-11-03</lastmod>
     
@@ -39,16 +39,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <loc>https://www.finale.asia/</loc>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <loc>https://www.finale.asia/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
