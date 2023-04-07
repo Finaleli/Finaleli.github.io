@@ -6,7 +6,7 @@
   <link href="https://www.finale.asia/atom.xml" rel="self"/>
   
   <link href="https://www.finale.asia/"/>
-  <updated>2023-04-07T08:49:07.121Z</updated>
+  <updated>2023-04-07T10:01:00.115Z</updated>
   <id>https://www.finale.asia/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.finale.asia/posts/551f943f.html"/>
     <id>https://www.finale.asia/posts/551f943f.html</id>
     <published>2023-03-11T09:44:41.000Z</published>
-    <updated>2023-04-07T08:49:07.121Z</updated>
+    <updated>2023-04-07T10:01:00.115Z</updated>
     
     <content type="html"><![CDATA[<div class="timeline blue"><div class="timeline-item headline"><div class="timeline-item-title"><div class="item-circle"><p>搭建日志</p></div></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-10-29</p></div></div><div class="timeline-item-content"><p>1.开始进行博客网站搭建<br>2.注册GitHub账户</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-10-30</p></div></div><div class="timeline-item-content"><p>使用Butterfly主题</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2020-10-31</p></div></div><div class="timeline-item-content"><p>添加留言板</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-01</p></div></div><div class="timeline-item-content"><p>部署到GitHub中</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-02</p></div></div><div class="timeline-item-content"><p>添加Live 2D，页脚徽标及建站时间统计</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-03</p></div></div><div class="timeline-item-content"><p>添加侧边电子钟，GitHub贡献图</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-04</p></div></div><div class="timeline-item-content"><p>使用Vercel加速Hexo的访问</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-5</p></div></div><div class="timeline-item-content"><p>1.购买腾讯云，并通过GitHub部署到互联网<br>2.第一篇博客</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-11</p></div></div><div class="timeline-item-content"><p>1.删除GitHub贡献图<br>2.修改侧边栏时钟<br>3.删除页脚徽标及建站时间统计<br>4.添加 <code>追番</code> 页面</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-15</p></div></div><div class="timeline-item-content"><p>添加图床用来放置图片</p></div></div></div>]]></content>
     
