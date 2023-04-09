@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://finaleli.github.io/posts/7f7d6eaa.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://finaleli.github.io/posts/0.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://finaleli.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://finaleli.github.io/muise/index.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://finaleli.github.io/movies/index.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://finaleli.github.io/about/index.html</loc>
     
     <lastmod>2023-04-09</lastmod>
@@ -20,25 +65,7 @@
   </url>
   
   <url>
-    <loc>https://finaleli.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://finaleli.github.io/link/index.html</loc>
-    
-    <lastmod>2023-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://finaleli.github.io/posts/7f7d6eaa.html</loc>
     
     <lastmod>2023-04-09</lastmod>
     
@@ -59,15 +86,6 @@
     <loc>https://finaleli.github.io/posts/551f943f.html</loc>
     
     <lastmod>2023-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://finaleli.github.io/posts/0.html</loc>
-    
-    <lastmod>2023-04-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -99,19 +117,33 @@
   </url>
   
   <url>
-    <loc>https://finaleli.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://finaleli.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://finaleli.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://finaleli.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://finaleli.github.io/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
