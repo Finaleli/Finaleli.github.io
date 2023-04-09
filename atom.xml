@@ -3,11 +3,11 @@
   <title>Finale</title>
   
   <subtitle>扫庭露青天，坐月荫嘉木。</subtitle>
-  <link href="https://www.finale.asia/atom.xml" rel="self"/>
+  <link href="https://finaleli.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.finale.asia/"/>
+  <link href="https://finaleli.github.io/"/>
   <updated>2023-04-09T07:33:09.867Z</updated>
-  <id>https://www.finale.asia/</id>
+  <id>https://finaleli.github.io/</id>
   
   <author>
     <name>Finalehe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>好用的电脑软件</title>
-    <link href="https://www.finale.asia/posts/7f7d6eaa.html"/>
-    <id>https://www.finale.asia/posts/7f7d6eaa.html</id>
+    <link href="https://finaleli.github.io/posts/7f7d6eaa.html"/>
+    <id>https://finaleli.github.io/posts/7f7d6eaa.html</id>
     <published>2023-04-07T15:30:38.000Z</published>
     <updated>2023-04-09T07:33:09.867Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="软件" scheme="https://www.finale.asia/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://finaleli.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>搭建日志</title>
-    <link href="https://www.finale.asia/posts/551f943f.html"/>
-    <id>https://www.finale.asia/posts/551f943f.html</id>
+    <link href="https://finaleli.github.io/posts/551f943f.html"/>
+    <id>https://finaleli.github.io/posts/551f943f.html</id>
     <published>2023-03-11T09:44:41.000Z</published>
     <updated>2023-04-09T07:32:04.674Z</updated>
     
@@ -57,14 +57,14 @@
     
     
     
-    <category term="技术" scheme="https://www.finale.asia/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://finaleli.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>Unity的粒子系统</title>
-    <link href="https://www.finale.asia/posts/0.html"/>
-    <id>https://www.finale.asia/posts/0.html</id>
+    <link href="https://finaleli.github.io/posts/0.html"/>
+    <id>https://finaleli.github.io/posts/0.html</id>
     <published>2022-11-05T13:31:56.000Z</published>
     <updated>2023-04-07T08:16:17.425Z</updated>
     
@@ -79,14 +79,14 @@
     
     
     
-    <category term="笔记" scheme="https://www.finale.asia/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://finaleli.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>关于我</title>
-    <link href="https://www.finale.asia/posts/9ff79b23.html"/>
-    <id>https://www.finale.asia/posts/9ff79b23.html</id>
+    <link href="https://finaleli.github.io/posts/9ff79b23.html"/>
+    <id>https://finaleli.github.io/posts/9ff79b23.html</id>
     <published>2022-11-05T12:31:56.000Z</published>
     <updated>2023-04-09T07:32:31.420Z</updated>
     
