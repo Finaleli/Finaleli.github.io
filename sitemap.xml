@@ -4,25 +4,7 @@
   <url>
     <loc>https://www.finale.asia/posts/7f7d6eaa.html</loc>
     
-    <lastmod>2023-04-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.finale.asia/posts/551f943f.html</loc>
-    
-    <lastmod>2023-04-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.finale.asia/posts/0.html</loc>
-    
-    <lastmod>2023-04-07</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,14 +13,23 @@
   <url>
     <loc>https://www.finale.asia/posts/9ff79b23.html</loc>
     
-    <lastmod>2023-04-07</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.finale.asia/css/modify.css</loc>
+    <loc>https://www.finale.asia/posts/551f943f.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.finale.asia/posts/0.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -58,7 +49,7 @@
 
   <url>
     <loc>https://www.finale.asia/</loc>
-    <lastmod>2023-04-07</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +57,21 @@
   
   <url>
     <loc>https://www.finale.asia/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-04-07</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.finale.asia/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-04-07</lastmod>
+    <lastmod>2023-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.finale.asia/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
