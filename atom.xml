@@ -6,7 +6,7 @@
   <link href="https://finaleli.github.io/atom.xml" rel="self"/>
   
   <link href="https://finaleli.github.io/"/>
-  <updated>2023-04-15T09:05:34.474Z</updated>
+  <updated>2023-04-16T16:03:11.731Z</updated>
   <id>https://finaleli.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>好用的电脑软件</title>
+    <title>Win软件分享</title>
     <link href="https://finaleli.github.io/posts/7f7d6eaa.html"/>
     <id>https://finaleli.github.io/posts/7f7d6eaa.html</id>
     <published>2023-04-07T15:30:38.000Z</published>
-    <updated>2023-04-15T09:05:34.474Z</updated>
+    <updated>2023-04-16T16:03:11.731Z</updated>
     
     <content type="html"><![CDATA[<div class="tip home"><p><a href="https://www.aliyundrive.com/s/wPzbFj1kJZ5">便携版软件合集   提取码：np29</a></p></div><h2 id="软件卸载工具-Geek"><a href="#软件卸载工具-Geek" class="headerlink" title="软件卸载工具-Geek"></a>软件卸载工具-Geek</h2><p>卸载软件工具<br>不仅是卸载工具，还可清理软件的注册表。<br>体积小，外观简洁，方便快捷<br><img src="https://s2.loli.net/2023/04/15/y5jgQnAKSmLHw3x.gif" alt="Geek"><br><div class="note default simple"><p><a href="https://geekuninstaller.com/">下载</a></p></div></p><h2 id="内存清理工具-RAMMap"><a href="#内存清理工具-RAMMap" class="headerlink" title="内存清理工具-RAMMap"></a>内存清理工具-RAMMap</h2><p>内存清理工具<br>不同于某些软件的加速球只能清理几MB或几KB<br>RAMMap可以一次清理几GB<br><img src="https://s2.loli.net/2023/04/15/kst2wgQeAcdU7m5.gif" alt="RAMMap"><br><div class="note default simple"><p><a href="https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap">下载</a></p></div></p><h2 id="文件搜索工具-Everything"><a href="#文件搜索工具-Everything" class="headerlink" title="文件搜索工具-Everything"></a>文件搜索工具-Everything</h2><p>文件搜索工具<br>轻量，速度快，界面简洁，功能专业<br>相较于WIN的文件夹搜索速度有巨大的提升<br><img src="https://s2.loli.net/2023/04/15/Xqskr9iGKnaQ5wU.gif" alt="Everything"><br><div class="note default simple"><p><a href="https://www.voidtools.com/zh-cn/">下载</a></p></div></p><h2 id="系统激活工具-HEU-KMS-Activator"><a href="#系统激活工具-HEU-KMS-Activator" class="headerlink" title="系统激活工具-HEU KMS Activator"></a>系统激活工具-HEU KMS Activator</h2><p>系统激活工具<br>支持的产品包括Windows 7、Windows 8.1、Windows 10、Windows 11、Windows Server服务器等等。<br>Office方面支持Microsoft Office 2010、Office 2013、Office 2016、Office 2019以及最新的Office 2021。<br><img src="https://s2.loli.net/2023/04/15/hOX4VHsgEKIm6PN.gif" alt="HEU KMS Activator"><br><div class="note default simple"><p><a href="https://meledee.com/2020/12/3724.html">下载</a></p></div></p><h2 id="关闭Win系统自动更新工具-Windows-Update-Blocker"><a href="#关闭Win系统自动更新工具-Windows-Update-Blocker" class="headerlink" title="关闭Win系统自动更新工具-Windows Update Blocker"></a>关闭Win系统自动更新工具-Windows Update Blocker</h2><p>关闭Win系统自动更新<br>但同时会关闭Win自带的商店，使之无法使用<br>如果您想阻止自动更新选择“禁用更新”并单击“应用”按钮，“锁定服务设置”推荐开启<br><img src="https://s2.loli.net/2023/04/15/y78v1MQtLWTmIBu.webp" alt="Windows Update Blocker"><br><img src="https://s2.loli.net/2023/04/15/d9I2DvMZmUpTV17.gif" alt="Windows Update Blocker"><br><div class="note default simple"><p><a href="https://www.sordum.org/9470/windows-update-blocker-v1-7/">下载</a></p></div></p>]]></content>
     
@@ -47,9 +47,9 @@
     <link href="https://finaleli.github.io/posts/551f943f.html"/>
     <id>https://finaleli.github.io/posts/551f943f.html</id>
     <published>2023-03-11T09:44:41.000Z</published>
-    <updated>2023-04-15T09:13:48.347Z</updated>
+    <updated>2023-04-16T16:04:53.433Z</updated>
     
-    <content type="html"><![CDATA[<div class="timeline blue"><div class="timeline-item headline"><div class="timeline-item-title"><div class="item-circle"><p>搭建日志</p></div></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-10-29</p></div></div><div class="timeline-item-content"><p>1.开始进行博客网站搭建<br>2.注册GitHub账户</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-10-30</p></div></div><div class="timeline-item-content"><p>使用Butterfly主题</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2020-10-31</p></div></div><div class="timeline-item-content"><p>添加留言板</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-01</p></div></div><div class="timeline-item-content"><p>部署到GitHub中</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-02</p></div></div><div class="timeline-item-content"><p>添加Live 2D，页脚徽标及建站时间统计</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-03</p></div></div><div class="timeline-item-content"><p>添加侧边电子钟，GitHub贡献图</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-04</p></div></div><div class="timeline-item-content"><p>使用Vercel加速Hexo的访问</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-5</p></div></div><div class="timeline-item-content"><p>1.购买腾讯云，并通过GitHub部署到互联网<br>2.第一篇博客</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-11</p></div></div><div class="timeline-item-content"><p>1.删除GitHub贡献图<br>2.修改侧边栏时钟<br>3.删除页脚徽标及建站时间统计<br>4.添加 <code>追番</code> 页面</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-15</p></div></div><div class="timeline-item-content"><p>添加图床用来放置图片</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-19</p></div></div><div class="timeline-item-content"><p>设计一个新的logo</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-7</p></div></div><div class="timeline-item-content"><p>对页面进行优化</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-8</p></div></div><div class="timeline-item-content"><p>添加评论区</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-9</p></div></div><div class="timeline-item-content"><p>补全主页面</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-10</p></div></div><div class="timeline-item-content"><p>添加霓虹灯效果和主页面的星空背景和流行特效</p></div></div></div>]]></content>
+    <content type="html"><![CDATA[<div class="timeline blue"><div class="timeline-item headline"><div class="timeline-item-title"><div class="item-circle"><p>搭建日志</p></div></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-10-29</p></div></div><div class="timeline-item-content"><p>1.开始进行博客网站搭建<br>2.注册GitHub账户</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-10-30</p></div></div><div class="timeline-item-content"><p>使用Butterfly主题</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2020-10-31</p></div></div><div class="timeline-item-content"><p>添加留言板</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-01</p></div></div><div class="timeline-item-content"><p>部署到GitHub中</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-02</p></div></div><div class="timeline-item-content"><p>添加Live 2D，页脚徽标及建站时间统计</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-03</p></div></div><div class="timeline-item-content"><p>添加侧边电子钟，GitHub贡献图</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-04</p></div></div><div class="timeline-item-content"><p>使用Vercel加速Hexo的访问</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2022-11-5</p></div></div><div class="timeline-item-content"><p>1.购买腾讯云，并通过GitHub部署到互联网<br>2.第一篇博客</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-11</p></div></div><div class="timeline-item-content"><p>1.删除GitHub贡献图<br>2.修改侧边栏时钟<br>3.删除页脚徽标及建站时间统计<br>4.添加 <code>追番</code> 页面</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-15</p></div></div><div class="timeline-item-content"><p>添加图床用来放置图片</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-3-19</p></div></div><div class="timeline-item-content"><p>设计一个新的logo</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-7</p></div></div><div class="timeline-item-content"><p>对页面进行优化</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-8</p></div></div><div class="timeline-item-content"><p>添加评论区</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-9</p></div></div><div class="timeline-item-content"><p>补全主页面</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-10</p></div></div><div class="timeline-item-content"><p>添加霓虹灯效果和主页面的星空背景和流行特效</p></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>2023-4-10</p></div></div><div class="timeline-item-content"><p>添加了Qexo管理后台</p></div></div></div>]]></content>
     
     
       
@@ -59,6 +59,8 @@
       
     
     
+    
+    <category term="日志" scheme="https://finaleli.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
     <category term="技术" scheme="https://finaleli.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
@@ -94,7 +96,7 @@
     <link href="https://finaleli.github.io/posts/9ff79b23.html"/>
     <id>https://finaleli.github.io/posts/9ff79b23.html</id>
     <published>2022-11-05T12:31:56.000Z</published>
-    <updated>2023-04-15T08:54:40.135Z</updated>
+    <updated>2023-04-16T16:01:16.494Z</updated>
     
     <content type="html"><![CDATA[<p>哔哩哔哩：<a href="https://space.bilibili.com/490882237">https://space.bilibili.com/490882237</a></p>]]></content>
     
@@ -106,8 +108,6 @@
       
     
     
-    
-    <category term="关于" scheme="https://finaleli.github.io/categories/%E5%85%B3%E4%BA%8E/"/>
     
     
   </entry>
