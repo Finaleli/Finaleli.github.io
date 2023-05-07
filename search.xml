@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Markdown 语法讲解</title>
+      <link href="/posts/c81ea237.html"/>
+      <url>/posts/c81ea237.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>这是一篇关于Markdown 语法的及展示效果的文章 <strong>[Makedown]</strong></p></blockquote><p>建议使用 <strong>Chrome</strong> 浏览器，体验最佳效果。</p><h1 id="Markdown-标题语法"><a href="#Markdown-标题语法" class="headerlink" title="Markdown 标题语法"></a>Markdown 标题语法</h1><p>要创建标题，请在单词或短语前面添加井号 (<code>#</code>) 。<code>#</code> 的数量代表了标题的级别。例如，添加三个 <code>#</code> 表示创建一个三级标题 。</p><div class="table-container"><table><thead><tr><th style="text-align:center">Markdown语法</th><th style="text-align:center">预览效果</th></tr></thead><tbody><tr><td style="text-align:center"><code># Heading level 1</code></td><td style="text-align:center"># Heading level 1</td></tr><tr><td style="text-align:center"><code>## Heading level 2</code></td><td style="text-align:center">## Heading level 2</td></tr><tr><td style="text-align:center"><code>###### Heading level 6</code></td><td style="text-align:center">###### Heading level 6</td></tr></tbody></table></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+          <category> 日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> 日志 </tag>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Unity实习周 || 视频</title>
       <link href="/posts/f40d8d1a.html"/>
       <url>/posts/f40d8d1a.html</url>
@@ -66,9 +97,9 @@
       
         <tags>
             
-            <tag> 技术 </tag>
-            
             <tag> 日志 </tag>
+            
+            <tag> 技术 </tag>
             
         </tags>
       
@@ -93,9 +124,9 @@
       
         <tags>
             
-            <tag> Unity </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> Unity </tag>
             
         </tags>
       
